@@ -16,5 +16,13 @@ namespace SquirrelDefaultPaths
         public static string main_users_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel/Users";
         public static string main_users_config_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel/Users/scpwd.conf";
         public static string main_users_perm_config_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel/Users/{0}.scpwd";
+
+        public static string main_tmp_path = "/tmp/squirrelees";
+    }
+
+    public static class LinuxSystemPaths
+    {
+        public static string bin_path = "/usr/bin";
+        public static string usr_bin_path = "/usr/bin";
     }
 }

@@ -9,3 +9,4 @@
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.dll
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/ref/Scorpion-Default-Paths.dll
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.csproj.AssemblyReference.cache
