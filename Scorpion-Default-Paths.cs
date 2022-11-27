@@ -20,6 +20,12 @@ namespace SquirrelDefaultPaths
         public static string main_tmp_path = "/tmp/squirrelees";
     }
 
+    public static class ScorpionHTTPPaths
+    {
+        public static string http_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel/HTTP/";
+        public static string http_config_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel/HTTP/http.cfg";
+    }
+
     public static class LinuxSystemPaths
     {
         public static string bin_path = "/usr/bin";
