@@ -1,7 +1,12 @@
-﻿using System;
+﻿using System.Text;
 
 namespace SquirrelDefaultPaths
 {
+    public static class GeneralEncoding
+    {
+        public static Encoding default_encoding = Encoding.UTF8;
+    }
+
     public static class SquirrelPaths
     {
         public static string main_user_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal) + "/Squirrel";
