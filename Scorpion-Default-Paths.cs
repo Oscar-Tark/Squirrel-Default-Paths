@@ -35,5 +35,6 @@ namespace SquirrelDefaultPaths
     {
         public static string bin_path = "/usr/bin";
         public static string usr_bin_path = "/usr/bin";
+        public static readonly string home_path = Environment.GetFolderPath(Environment.SpecialFolder.Personal);
     }
 }
