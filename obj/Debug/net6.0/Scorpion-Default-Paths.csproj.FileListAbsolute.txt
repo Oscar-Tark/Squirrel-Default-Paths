@@ -1,12 +1,12 @@
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/bin/Debug/net6.0/Scorpion-Default-Paths.deps.json
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/bin/Debug/net6.0/Scorpion-Default-Paths.dll
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/bin/Debug/net6.0/Scorpion-Default-Paths.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.csproj.AssemblyReference.cache
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.GeneratedMSBuildEditorConfig.editorconfig
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.AssemblyInfoInputs.cache
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.AssemblyInfo.cs
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.csproj.CoreCompileInputs.cache
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.dll
-/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/ref/Scorpion-Default-Paths.dll
-/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.pdb
-/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.csproj.AssemblyReference.cache
 /home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/refint/Scorpion-Default-Paths.dll
+/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/Scorpion-Default-Paths.pdb
+/home/ferret/GIT/Squirrel_Project/Squirrel-Default-Paths/obj/Debug/net6.0/ref/Scorpion-Default-Paths.dll
